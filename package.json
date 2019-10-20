@@ -1,0 +1,24 @@
+{
+  "name": "slate-starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/L-Chris/slate-starter-kit",
+  "author": "Jiahui.liang <563303226@QQ.COM>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html --open"
+  },
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "slate": "^0.47.8",
+    "slate-react": "^0.22.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-react": "^7.6.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
